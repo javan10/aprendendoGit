@@ -30,7 +30,7 @@ git push repositorioRemoto https://github...... (enpurra atualizações)
 git pull repositorioRemoto https://github...... (tras atualizações fech + merge funciona com caminho feliz)
 git clone
 
-fetch
-diff
-merge 
+fetch (tras só as modificações)
+diff (diferenças entre servidorRemoto/master e master)
+merge (unifica as diferenças )
 git fetch 
